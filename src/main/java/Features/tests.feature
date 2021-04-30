@@ -5,8 +5,8 @@ Given Application "WALMART" is launched
 When Verify title of page is "walmart"
 Then User hovers over "signinhover"
 Then User clicks on "SignIn" button
-Then User enters "mnprt.raina@gmail.com" on "Username" element
-Then User enters "1LoveZindagi" on "password" element
+Then User enters "khumaya@gmail.com" on "Username" element
+Then User enters "khumaya123" on "password" element
 Then User clicks on "signinbutton" button
 
 Scenario: Update contact details
@@ -18,9 +18,4 @@ Then User enters "8723828783" on "phonenumber" element
 Then User clicks on "save" button
 
  
-
-
-
-
-
 
